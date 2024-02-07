@@ -1,0 +1,8 @@
+print("\t.........................................")
+print("\t|\tUganda police force  \t\t|")
+print("\t|\tWarrant card\t\t\t|")
+print("\t|card number:\t6000\t\t\t|")
+print("\t|Rank:\tCommissioner\t\t\t|")
+print("\t|File number:\t56674\t\t\t|")
+print("\t|Welcome to uganda police\t ")
+print("\t.........................................")
